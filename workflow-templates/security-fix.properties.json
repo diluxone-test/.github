@@ -1,0 +1,6 @@
+{
+  "name": "Security fixes (private repository only)",
+  "description": "Triages a security advisory and writes its fix in this private repository. Only in a private repository.",
+  "iconName": "octicon shield",
+  "categories": ["Automation"]
+}
