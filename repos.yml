@@ -1,0 +1,7 @@
+# Every repository of the organisation and what it is: its kinds of
+# project (a pack of the engine's kinds/, or one of this repository's),
+# each over the paths it covers, with their roles. Written by the
+# installer from detection; correct what it got wrong. A repository
+# with no kinds is unclassified.
+repos:
+  sample-plugin: {kinds: [{kind: wordpress-plugin, paths: ["**"], roles: [back, front]}]}

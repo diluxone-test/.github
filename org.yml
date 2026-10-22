@@ -1,0 +1,9 @@
+# Who the organisation is, for the engine's scripts (written by
+# DiluxOne/.github's scripts/install.py, #197). The engine lays this
+# repository's configuration over its own defaults in every run
+# (scripts/config-overlay.sh).
+org: diluxone-test
+central: diluxone-test/.github
+bot:
+  app: dilux-bot
+  id: 333187390
