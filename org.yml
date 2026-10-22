@@ -5,5 +5,5 @@
 org: diluxone-test
 central: diluxone-test/.github
 bot:
-  app: dilux-bot
-  id: 333187390
+  app: diluxone-test-bot
+  id: 346166719
